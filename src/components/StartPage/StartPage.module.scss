@@ -1,0 +1,21 @@
+.container {
+  max-width: 1000px;
+}
+
+.titles_wrap {
+  display: flex;
+  gap: 20px;
+  align-items: baseline;
+}
+
+.seatch_wrap {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.section_wrap {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+}
